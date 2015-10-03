@@ -7,12 +7,12 @@ def process_data(data):
     """The sum and mean of the data
 
     arguments:
-        myave: returns mean of sum of the given dataset
+        myave: will return mean of sum of the given set
 
-        for loop: every item (mynum) in the dataset is being added to mysum (0)
+        loop: every item in the set is being added to mysum
 
     returns:
-        returns sum of dataset and mean of the dataset as a tuple
+        will return sum and mean of the set as a tuple
 
     examples:
         process_data([1,2,3])
